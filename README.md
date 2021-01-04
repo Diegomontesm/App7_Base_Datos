@@ -3,10 +3,10 @@ Aplicación para la materia de Desarrollo de Aplicaciones para Dispositivos Móv
 Base de datos 
 
 
-##Acerca de la aplicación
+## Acerca de la aplicación
 Aplicación de base de datos que da de alta,consulta, modifica y elimina datos de una manera sencilla.
 
-##Preview
+## Preview
 <a href="https://ibb.co/Jqq08Tq"><img src="https://i.ibb.co/hcchrNc/Screenshot-20210104-121644-com-example-a7-basedatos.jpg" alt="Screenshot-20210104-121644-com-example-a7-basedatos" border="0"></a>
 
 ## Datos del alumno
