@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">7_BaseDatos</string>
+    <string name="txt_codigo">Código del producto</string>
+    <string name="txt_descripcion">Descripción del producto</string>
+    <string name="txt_precio">Precio unitario</string>
+    <string name="BotonRegistrar">Registrar producto</string>
+    <string name="BotonBuscar">Buscar producto</string>
+    <string name="BotonEliminar">Eliminar producto</string>
+    <string name="BotonModificar">Modificar producto</string>
+</resources>
